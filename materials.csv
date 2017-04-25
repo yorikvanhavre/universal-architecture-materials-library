@@ -1,9 +1,9 @@
 "Category","Material","Description","URL","Texture","Pattern","Color","Weight"
 ,,,,,,,
 "Base material","Structural concrete","C40 / 40fck concrete for use in commercial-grade structures such as beams and columns. Doesn’t include reinforcement materials","https://en.wikipedia.org/wiki/Reinforced_concrete",,,"#d9d4c7","2400 kg/m³"
-,"Light concrete","C25 / 25fck light concrete used for non-structural and non-reinforced fillings","https://en.wikipedia.org/wiki/Concrete",,,"#e8e3d5","2200 kg/m³"
-,"Clay","Dry clay as found in the soil","https://en.wikipedia.org/wiki/Clay",,,"#b69463","1090 kg/m³"
-,"Expanded clay","Lightweight aggregate made of beads of baked clay","https://en.wikipedia.org/wiki/Expanded_clay_aggregate",[texture](images/expanded%20clay%20texture.jpg),,"#ab6834","330 kg/m³"
+"Base material","Light concrete","C25 / 25fck light concrete used for non-structural and non-reinforced fillings","https://en.wikipedia.org/wiki/Concrete",,,"#e8e3d5","2200 kg/m³"
+"Base material","Clay","Dry clay as found in the soil","https://en.wikipedia.org/wiki/Clay",,,"#b69463","1090 kg/m³"
+"Base material","Expanded clay","Lightweight aggregate made of beads of baked clay","https://en.wikipedia.org/wiki/Expanded_clay_aggregate",[texture](images/expanded%20clay%20texture.jpg),,"#ab6834","330 kg/m³"
 ,"Hard wood",,,,,,
 ,"Light wood",,,,,,
 ,"Iron",,,,,,
